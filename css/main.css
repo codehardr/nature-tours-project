@@ -132,6 +132,18 @@ body {
   color: #fff;
 }
 
+::-webkit-scrollbar {
+  width: 1.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #28b485;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #55c57a;
+}
+
 body {
   font-family: "Lato", sans-serif;
   font-weight: 400;
